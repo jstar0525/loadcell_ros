@@ -23,7 +23,7 @@
 # rosserial
 
 * if you didn't install rosserial, you can see page below  
-<https://jstar0525.tistory.com/150>
+<https://jstar0525.tistory.com/152>
 
 # RUN
 
