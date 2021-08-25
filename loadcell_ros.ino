@@ -1,7 +1,3 @@
-/*
-   rosserial::std_msgs::Float64 Test
-   Receives a Float64 input, subtracts 1.0, and publishes it
-*/
 
 #include <ros.h>
 #include <std_msgs/Float32.h>
