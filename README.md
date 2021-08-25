@@ -1,7 +1,8 @@
 # loadcell_ros
 
-## Communicating with rosserial using arduino to use load cell
-   
+### Communicating with rosserial using arduino to use load cell
+
+
 # Test Env.
 
 * jetson AGX xavier (jetpack 4.5.1, ubuntu 18.04, ROS melodic)
@@ -10,6 +11,7 @@
 
 # Load Cell
 
+* HX711 libraries is in libraries folder
 * The basics of the load cell are detailed in the link below.  
 <https://jstar0525.tistory.com/150>
 
@@ -17,12 +19,10 @@
 
 <img src="./doc/circuit.png" width="50%" height="50%"></img>
 
-* HX711 libraries is in libraries folder
 
 # rosserial
 
-* if you didn't install rosserial, you can see page below
-
+* if you didn't install rosserial, you can see page below  
 <https://jstar0525.tistory.com/150>
 
 # RUN
