@@ -52,3 +52,6 @@ $ source /opt/ros/melodic/setup.bash
 $ rostopic list
 $ rostopic echo gram
 ```
+
+
+### Detail : https://jstar0525.tistory.com/153
