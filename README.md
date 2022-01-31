@@ -24,6 +24,10 @@
 
 * if you didn't install rosserial, you can see page below  
 <https://jstar0525.tistory.com/152>
+```
+$ sudo apt-get install ros-melodic-rosserial-arduino
+$ sudo apt-get install ros-melodic-rosserial
+```
 
 # RUN
 
@@ -44,7 +48,7 @@ $ roscore
 ```
 # 2nd terminal
 $ source /opt/ros/melodic/setup.bash
-$ rosrun rosserial_python serial.node.py _port:=/dev/ttyUSB? _baud:==57600
+$ rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB? _baud:=57600
 ```
 ```
 # 3rd terminal
